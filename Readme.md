@@ -4,6 +4,9 @@ The [Siemens Star](https://en.wikipedia.org/wiki/Siemens_star) is a radial starb
 
 ![](https://raw.githubusercontent.com/jckantor/Siemens-Star/master/star.svg?sanitize=true)
 
+<img src="star.svg">
+
+
 ### Usage
 
 This is a [Jupyter notebook](http://jupyter.org/) containing Python functions. An executable version of this notebook is available from the [http://mybinder.org/](http://mybinder.org/) by clicking on the following button.  There may be a longish pause as the notebook loads.
