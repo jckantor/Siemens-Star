@@ -5,7 +5,7 @@ The [Siemens Star](https://en.wikipedia.org/wiki/Siemens_star) is a radial starb
 ![](https://raw.githubusercontent.com/jckantor/Siemens-Star/master/star.svg?sanitize=true)
 
 ![Alt text](star.svg?sanitize=true)
-<img src="https://raw.github.com/jckantor/Siemens-Star/master/star.svg?sanitize=true">
+<img src="star.svg?sanitize=true">
 
 
 ![](star.png)
