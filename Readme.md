@@ -2,12 +2,7 @@
 
 The [Siemens Star](https://en.wikipedia.org/wiki/Siemens_star) is a radial starburst pattern commonly used to adjust internal focus settings in camera lens and for measuring camera resolution. This notebook produces a Siemens Star test chart in the form in [Scalable Vector Graphics (svg)[(https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) that can be rendered by most modern web browsers.  The idea for this notebook was motivated by this [post](http://www.dpreview.com/forums/post/57422062) on a forum at [Digital Photography Review (DPReview)](http://www.dpreview.com/).
 
-![](https://jckantor.github.io/Siemens-Star/star.svg?sanitize=true)
-
-![Alt text](star.svg?sanitize=true)
-<img src="star.svg?sanitize=true">
-<img src="https://raw.githubusercontent.com/jckantor/Siemens-Star/master/star.svg?sanitize=true">
-
+![](https://github.com/jckantor/Siemens-Star/blob/master/star.svg?sanitize=true)
 
 
 ### Usage
