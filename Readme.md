@@ -8,10 +8,8 @@ The [Siemens Star](https://en.wikipedia.org/wiki/Siemens_star) is a radial starb
 <img src="star.svg?sanitize=true">
 
 
-![](star.png)
-
 <a href="https://olivermak.es/">
-  <img src="https://olivermak.es/resources/icons/favicon144.svg" width="100%" height="144">
+  <img src="https://raw.githubusercontent.com/jckantor/Siemens-Star/master/star.svg?sanitize=true" width="100%" height="144">
 </a>
 
 
