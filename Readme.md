@@ -14,3 +14,13 @@ To use the notebook after it has been loaded in an executable environment:
 
 1. First run the code in the following cell. Do this by clicking in the cell to highlight it, then entering 'shift-return' from the keyboard, or clicking on the run button in the toolbar menu (looks like >|), or the 'Cell>Run Cells' menu item.
 2. Execute the second cell below to create the desired chart interactively. The controls adjust the colors and number of spokes displayed in the chart.
+
+## References
+
+* [Digital Camera Resolution Measurement Using Sinusoidal Siemens Stars](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.2385&rep=rep1&type=pdf)
+* [Wikipedia: Siemens star](https://en.wikipedia.org/wiki/Siemens_star)
+* [Image Engineering: Resolution measurement with siemens stars](https://github.com/jckantor/Siemens-Star)
+* [A/D Photography: Resolution Test Chart – Siemens star](https://claclaclack.wordpress.com/2015/05/17/resolution/)
+* [Lens Rentals: Setting Up an Optical Testing Station](https://www.lensrentals.com/blog/2014/02/setting-up-an-optical-testing-station/)
+* [Imatest: Star Chart](http://www.imatest.com/docs/starchart/)
+
