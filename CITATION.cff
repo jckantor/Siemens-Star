@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Siemens Star. An interactive Jupyter notebook to
+  create a Siemens star pattern for lens and camera
+  testing.
+message: >-
+  Please cite if use this software for any on-line,
+  web, or archival publications.
+type: software
+authors:
+  - given-names: Kantor
+    family-names: Jeffrey
+    orcid: 'https://orcid.org/0000-0001-6076-2718'
+    affiliation: University of Notre Dame
+identifiers:
+  - type: url
+    value: 'https://github.com/jckantor/Siemens-Star'
+abstract: >-
+  This notebook produces a Siemens Star and color
+  test chart in the form in [Scalable Vector Graphics
+  (svg) that can be rendered by most modern web
+  browsers. 
+keywords:
+  - 'camera testing, lens testing'
+license: CC-BY-NC-4.0
+date-released: '2016-03-16'
